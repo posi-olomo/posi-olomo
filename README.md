@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @posi-olomo
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning python and ML
+- 🌱 I’m currently expploring ML
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me ayooluwaposi.olomo@stu.cu.edu.ng
 
