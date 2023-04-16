@@ -64,6 +64,19 @@ Hi, I'm Olomo Ayooluwaposi
     <img src="https://user-images.githubusercontent.com/75603128/232067012-5b0839ad-cfe9-428d-8471-9ca5b40208cb.gif" width="500" height="260" scrolling="no" href="https://technoir.nl/post/24286106650/june2012-ghostintheshell" />
 </p>
 
+### 🖥️ My Projects
+<table>
+<tr><th>Machine Learning </th><th>Misc Projects</th></tr>
+<tr><td>
+
+|Title | Technologies|
+|--|--|
+| [Image Classification of Numbers in Sign Language](https://github.com/posi-olomo/Sign-Language-Number-Image-Classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras)|
+| [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
+    
+</td><td>
+
+
 ## 🎯GitHub Stats 
 |                                                             |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------:|
