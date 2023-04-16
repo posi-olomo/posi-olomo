@@ -38,23 +38,25 @@ Hi, I'm Olomo Ayooluwaposi
 <br/>
 
 <p align ="center">
-    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-<p style="text-align:center">
+<p align ="center">
     <img src= "https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> 
     <img src= "https://img.shields.io/badge/Pandas%20-%23FFF.svg?style=for-the-badge&logo=pandas&logoColor=150458"> 
     <img src= "https://img.shields.io/badge/optuna-%23430098.svg?style=for-the-badge&logo=optuna&logoColor=white">
     <img src= "https://img.shields.io/badge/Tensorflow%20-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white">
-    <img src= "https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
+    <img src= "https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
 </p>
+
 <p style="text-align:center">
-    <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+    <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 
 <p align="center">
     <img src= "https://img.shields.io/badge/colab-%23FFF.svg?style=for-the-badge&logo=Google-Colab&logoColor=F9AB00">
     <img src= "https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&style=for-the-badge&logoColor=white">
     <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white">
-    <img src= "https://img.shields.io/badge/Git%20-%23FFF.svg?logo=git&style=for-the-badge&logoColor=F05032"></a>
+    <img src= "https://img.shields.io/badge/Git%20-%23FFF.svg?logo=git&style=for-the-badge&logoColor=F05032">
 </p>
 
 <p align="center">
