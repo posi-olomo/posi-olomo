@@ -95,6 +95,9 @@ Hi, I'm Olomo Ayooluwaposi
 <a href="https://github.com/posi-olomo" target="_blank">
 <img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.kaggle.com/nobodysboredom" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=github&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
 <a href="https://medium.com/@ayooluwaposiolomo" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
