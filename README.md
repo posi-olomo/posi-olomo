@@ -75,7 +75,7 @@ Hi, I'm Olomo Ayooluwaposi
 | [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Disaster Tweets Predictor [NLP]](https://github.com/posi-olomo/Disaster-Tweets-Predictor-NLP) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Titanic Machine Learning Competition](https://github.com/posi-olomo/Titanic-Machine-Learning-Competition) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |    
-</td></tr>
+</td><td>
     
 |Title | Technologies|
 |--|--|
