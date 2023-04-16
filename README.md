@@ -1,7 +1,10 @@
 <h1 style="text-align:center">
 Hi, I'm Olomo Ayooluwaposi
     <img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30"></h1>
-    <img src="https://komarev.com/ghpvc/?username=posi-olomo&label=Profile%20Views&color=blueviolet&style=flat" align='left' alt="posiolomo"/> <a href="https://github.com/posi-olomo?tab=repositories"></a>
+<a href="https://github.com/posi-olomo?tab=repositories">
+<img src="https://komarev.com/ghpvc/?username=posi-olomo&label=Profile%20Views&color=blueviolet&style=flat" alt="posiolomo"/>
+</a>
+
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
