@@ -60,8 +60,7 @@ Hi, I'm Olomo Ayooluwaposi
     <img src= "https://img.shields.io/badge/Git%20-%23FFF.svg?logo=git&style=for-the-badge&logoColor=F05032">
 </p>
 
-<iframe src="https://user-images.githubusercontent.com/75603128/232067012-5b0839ad-cfe9-428d-8471-9ca5b40208cb.gif" width="500" height="260" scrolling="no" frameBorder="0" align="center" allowfullframe ></iframe><p><a href="https://technoir.nl/post/24286106650/june2012-ghostintheshell"></a></p>
-
+<img align="center" src="https://user-images.githubusercontent.com/75603128/232067012-5b0839ad-cfe9-428d-8471-9ca5b40208cb.gif" width="500" height="260" scrolling="no" href="https://technoir.nl/post/24286106650/june2012-ghostintheshell" />
 
 ## 🎯GitHub Stats 
 |                                                             |
@@ -106,7 +105,7 @@ Hi, I'm Olomo Ayooluwaposi
 <hr>
 
 ```
-You never really understand a person until you consider things from his point of view
-...until you climb into his skin and walk around in it
-                                - Atticus Finch [To kill a Mockingbird]
+                            You never really understand a person until you consider things from his point of view
+                                            ...until you climb into his skin and walk around in it
+                                                                            - Atticus Finch [To kill a Mockingbird]
 ```
