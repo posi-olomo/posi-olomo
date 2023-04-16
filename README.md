@@ -1,6 +1,6 @@
-<h1 style="text-align:center">
+<h1 style="float:left">
 Hi, I'm Olomo Ayooluwaposi
-<img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
+<img style="float:left" src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
 </h1>
 
 
@@ -11,9 +11,7 @@ Hi, I'm Olomo Ayooluwaposi
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p style="float:left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
-</p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"> <img style="float:left" src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
 
 <img align="left" src="https://user-images.githubusercontent.com/75603128/232074736-d1ae4c31-361a-4fb8-a4f2-2cb51728fafc.gif" width="250" height="200" href="https://www.reddit.com/r/animegifs/comments/1gtyaz/asleep_at_the_keyboard_golden_boy/" />
 <hr>
