@@ -12,7 +12,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    a href="https://github.com/DenverCoder1/readme-typing-svg"> <img align= "center" src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img align= "center" src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://user-images.githubusercontent.com/75603128/232074736-d1ae4c31-361a-4fb8-a4f2-2cb51728fafc.gif" width="250" height="200" href="https://www.reddit.com/r/animegifs/comments/1gtyaz/asleep_at_the_keyboard_golden_boy/" />
@@ -37,7 +37,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 <br/>
 
-<p style="text-align:center">
+<p align ="center">
     <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
 
 <p style="text-align:center">
@@ -46,7 +46,7 @@ Hi, I'm Olomo Ayooluwaposi
     <img src= "https://img.shields.io/badge/optuna-%23430098.svg?style=for-the-badge&logo=optuna&logoColor=white">
     <img src= "https://img.shields.io/badge/Tensorflow%20-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white">
     <img src= "https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>
-
+</p>
 <p style="text-align:center">
     <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 
@@ -105,6 +105,7 @@ Hi, I'm Olomo Ayooluwaposi
 </div>  
 
 ```
-You never really understand a person until you consider things from his point of view...until you climb into his skin and walk around in it
+You never really understand a person until you consider things from his point of view
+...until you climb into his skin and walk around in it
                                 - Atticus Finch [To kill a Mockingbird]
 ```
