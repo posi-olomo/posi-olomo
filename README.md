@@ -83,11 +83,7 @@ Hi, I'm Olomo Ayooluwaposi
 | [Amazon Customer Data Analysis](https://github.com/posi-olomo/Amazon-Customer-Data-Analysis) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite)|
 | [2018 SuperBowl Data Analysis: The Honest Truth](https://github.com/posi-olomo/2018-SuperBowl-Data-Analysis) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
 | [Developers: The Honest Truth](https://github.com/posi-olomo/Developers-The-honest-truth) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
-
-
 </td></tr>
-    
-    
 </table>
 
 
