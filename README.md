@@ -66,7 +66,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 ### 🖥️ My Projects
 <table>
-<tr><th>Machine Learning </th></tr>
+<tr><th>Machine Learning </th><th>Data Analysis Projects</th></tr>
 <tr><td>
 
 |Title | Technologies|
@@ -74,9 +74,18 @@ Hi, I'm Olomo Ayooluwaposi
 | [Image Classification of Numbers in Sign Language](https://github.com/posi-olomo/Sign-Language-Number-Image-Classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras)|
 | [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Disaster Tweets Predictor [NLP]](https://github.com/posi-olomo/Disaster-Tweets-Predictor-NLP) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
-    
-    
+| [Titanic Machine Learning Competition](https://github.com/posi-olomo/Titanic-Machine-Learning-Competition) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |    
 </td></tr>
+    
+|Title | Technologies|
+|--|--|
+| [QUANTIUM Purchase Behaviour Analysis](https://github.com/posi-olomo/QUANTIUM_Purchase_Behaviour_Analysis) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
+| [Amazon Customer Data Analysis](https://github.com/posi-olomo/Amazon-Customer-Data-Analysis) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite)|
+
+
+</td></tr>
+    
+    
 </table>
 
 
