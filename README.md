@@ -66,7 +66,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 ### 🖥️ My Projects
 <table>
-<tr><th>Machine Learning </th><th>Misc Projects</th></tr>
+<tr><th>Machine Learning </th></tr>
 <tr><td>
 
 |Title | Technologies|
