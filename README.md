@@ -74,7 +74,8 @@ Hi, I'm Olomo Ayooluwaposi
 | [Image Classification of Numbers in Sign Language](https://github.com/posi-olomo/Sign-Language-Number-Image-Classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras)|
 | [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
     
-</td><td>
+</td></tr>
+</table>
 
 
 ## 🎯GitHub Stats 
