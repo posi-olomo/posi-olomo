@@ -1,7 +1,9 @@
 <h1 style="text-align:center">
 Hi, I'm Olomo Ayooluwaposi
-    <img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30"></h1>
-    
+<img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
+</h1>
+
+
 <a href="https://github.com/posi-olomo?tab=repositories">
 <img src="https://komarev.com/ghpvc/?username=posi-olomo&label=Profile%20Views&color=blueviolet&style=flat" alt="posiolomo"/>
 </a>
@@ -9,7 +11,7 @@ Hi, I'm Olomo Ayooluwaposi
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p style="text-align:center">
+<p style="float:left">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
 </p>
 
