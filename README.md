@@ -20,10 +20,10 @@ Hi, I'm Olomo Ayooluwaposi
 
 ```
 👩🏿‍🔧 I am a Machine Learning Engineer
-💻 Interested in Machine Learning and AI
+💻 Interested in Deep Learning and AI
 📚 Learning about Neural Networks and Image Classification
-🌱 Currently exploring Deep Learning and its applications in ASL(Americal Sign Language)
-💞️ Would love to collaborate on ML & DL projects
+🌱 Currently exploring Deep Learning and its applications in ASL(American Sign Language)
+💞️ Would love to collaborate on ML, DL & AI projects
 ༼ つ ◕_◕ ༽つ
 ```
 <hr>
