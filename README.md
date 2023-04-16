@@ -51,6 +51,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 <p style="text-align:center">
     <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</p>
 
 <p align="center">
     <img src= "https://img.shields.io/badge/colab-%23FFF.svg?style=for-the-badge&logo=Google-Colab&logoColor=F9AB00">
@@ -59,9 +60,7 @@ Hi, I'm Olomo Ayooluwaposi
     <img src= "https://img.shields.io/badge/Git%20-%23FFF.svg?logo=git&style=for-the-badge&logoColor=F05032">
 </p>
 
-<p align="center">
-    <iframe src="https://user-images.githubusercontent.com/75603128/232067012-5b0839ad-cfe9-428d-8471-9ca5b40208cb.gif" width="500" height="260" scrolling="no" frameBorder="0"align="center" allowfullframe ></iframe><p><a href="https://technoir.nl/post/24286106650/june2012-ghostintheshell"></a></p>
-</p>
+<iframe src="https://user-images.githubusercontent.com/75603128/232067012-5b0839ad-cfe9-428d-8471-9ca5b40208cb.gif" width="500" height="260" scrolling="no" frameBorder="0"align="center" allowfullframe ></iframe><p><a href="https://technoir.nl/post/24286106650/june2012-ghostintheshell"></a></p>
 
 
 ## 🎯GitHub Stats 
@@ -70,7 +69,7 @@ Hi, I'm Olomo Ayooluwaposi
 | ![Posi's github stats](https://github-readme-stats.vercel.app/api?username=posi-olomo&show_icons=true&theme=radical)                | 
 | ![Posi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=posi-olomo&theme=radical)  |
 
-<div align="center"><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=posi-olomo&langs_count=8&theme=radical&layout=compact">
+<div ><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=posi-olomo&langs_count=8&theme=radical&layout=compact">
 
 </div>
 
@@ -92,8 +91,6 @@ Hi, I'm Olomo Ayooluwaposi
 
 ## 📵Connect with me
 
-<hr>
-
 <div align="center">
 <a href="https://github.com/posi-olomo" target="_blank">
 <img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -106,6 +103,7 @@ Hi, I'm Olomo Ayooluwaposi
 </a>
 </div>  
 
+<hr>
 ```
 You never really understand a person until you consider things from his point of view
 ...until you climb into his skin and walk around in it
