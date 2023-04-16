@@ -64,6 +64,8 @@ Hi, I'm Olomo Ayooluwaposi
     <img src="https://user-images.githubusercontent.com/75603128/232067012-5b0839ad-cfe9-428d-8471-9ca5b40208cb.gif" width="500" height="260" scrolling="no" href="https://technoir.nl/post/24286106650/june2012-ghostintheshell" />
 </p>
 
+<hr>
+
 ### 🖥️ My Projects
 <table>
 <tr><th>Machine Learning </th><th>Data Analysis Projects</th></tr>
