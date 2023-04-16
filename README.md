@@ -11,7 +11,9 @@ Hi, I'm Olomo Ayooluwaposi
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg"> <img align= "center" src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
+<p align="center">
+    a href="https://github.com/DenverCoder1/readme-typing-svg"> <img align= "center" src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data+Scientist;ML%20|%20DL%20|%20AI%20;&center=true&width=380&height=45"></a>
+</p>
 
 <img align="left" src="https://user-images.githubusercontent.com/75603128/232074736-d1ae4c31-361a-4fb8-a4f2-2cb51728fafc.gif" width="250" height="200" href="https://www.reddit.com/r/animegifs/comments/1gtyaz/asleep_at_the_keyboard_golden_boy/" />
 <hr>
@@ -28,7 +30,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 <br/>
 
-<div style="text-align:center;">
+<div align = "center">
     <h1> 💻Tech Stack 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h1>
 </div>
