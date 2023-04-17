@@ -73,10 +73,14 @@ Hi, I'm Olomo Ayooluwaposi
 
 |Title | Technologies|
 |--|--|
+| [Bipolar-Detection-via-Handwriting](https://gallery.cortanaintelligence.com/Experiment/Bipolar-Detection-via-Handwriting) |   ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Azure)|
 | [Image Classification of Numbers in Sign Language](https://github.com/posi-olomo/Sign-Language-Number-Image-Classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras)|
 | [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Disaster Tweets Predictor [NLP]](https://github.com/posi-olomo/Disaster-Tweets-Predictor-NLP) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Titanic Machine Learning Competition](https://github.com/posi-olomo/Titanic-Machine-Learning-Competition) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |    
+
+
+
 </td><td>
     
 |Title | Technologies|
