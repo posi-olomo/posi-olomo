@@ -109,6 +109,9 @@ Hi, I'm Olomo Ayooluwaposi
 ## 🔥🖋Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+ [I used ChatGPT to analyze more than 500 articles from the acclaimed “PUNCH” newspaper](https://ayooluwaposiolomo.medium.com/i-used-chat-gpt-to-analyze-more-than-500-articles-from-the-acclaimed-punch-newspaper-e9af1a0798d4)
+ 
  [For those learning Feature Engineering](https://ayooluwaposiolomo.medium.com/for-those-learning-feature-engineering-3fcfbb1bd7a1)
  
  [Took me 3 years to finish this Coursera Course](https://ayooluwaposiolomo.medium.com/took-me-3-years-to-finish-this-coursera-course-8bacf1352d80)
