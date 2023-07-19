@@ -85,6 +85,7 @@ Hi, I'm Olomo Ayooluwaposi
     
 |Title | Technologies|
 |--|--|
+| [PUNCH-Newspaper-Data-Analysis](https://github.com/posi-olomo/PUNCH-Newspaper-Data-Analysis) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=SPACY) ![NLTK](https://img.shields.io/badge/NLTK-black?style=flat-square&logo=python)| 
 | [QUANTIUM Purchase Behaviour Analysis](https://github.com/posi-olomo/QUANTIUM_Purchase_Behaviour_Analysis) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
 | [Amazon Customer Data Analysis](https://github.com/posi-olomo/Amazon-Customer-Data-Analysis) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite)|
 | [2018 SuperBowl Data Analysis](https://github.com/posi-olomo/2018-SuperBowl-Data-Analysis) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
