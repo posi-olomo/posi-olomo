@@ -53,6 +53,11 @@ Hi, I'm Olomo Ayooluwaposi
     <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 
+<p align ="center">
+    <img src= "https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7">
+    <img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+</p>
+
 <p align="center">
     <img src= "https://img.shields.io/badge/colab-%23FFF.svg?style=for-the-badge&logo=Google-Colab&logoColor=F9AB00">
     <img src= "https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&style=for-the-badge&logoColor=white">
