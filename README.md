@@ -50,12 +50,12 @@ Hi, I'm Olomo Ayooluwaposi
 </p>
 
 <p align ="center">
-    <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+    <img src= "https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7">
+    <img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 </p>
 
 <p align ="center">
-    <img src= "https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7">
-    <img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+    <img src= "https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 
 <p align="center">
