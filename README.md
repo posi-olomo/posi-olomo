@@ -22,7 +22,8 @@ Hi, I'm Olomo Ayooluwaposi
 👩🏿‍🔧 I am a Machine Learning Engineer
 💻 Interested in Deep Learning and AI
 📚 Learning about Neural Networks and Image Classification
-🌱 Currently exploring Deep Learning and its applications in ASL(American Sign Language)
+🌱 Currently exploring Deep Learning and its applications in
+    ASL(American Sign Language)
 💞️ Would love to collaborate on ML, DL & AI projects
 ༼ つ ◕_◕ ༽つ
 ```
@@ -73,7 +74,7 @@ Hi, I'm Olomo Ayooluwaposi
 
 ### 🖥️ My Projects
 <table>
-<tr><th>Machine Learning </th><th>Data Analysis</th></tr>
+<tr><th>Machine Learning </th></tr>
 <tr><td>
 
 |Title | Technologies|
@@ -85,9 +86,13 @@ Hi, I'm Olomo Ayooluwaposi
 | [Disaster Tweets Predictor [NLP]](https://github.com/posi-olomo/Disaster-Tweets-Predictor-NLP) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Titanic Machine Learning Competition](https://github.com/posi-olomo/Titanic-Machine-Learning-Competition) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |    
 
+</td></tr>
+</table>
 
 
-</td><td>
+<table>
+<tr><th>Data Analysis</th></tr>
+<tr><td>
     
 |Title | Technologies|
 |--|--|
@@ -97,6 +102,7 @@ Hi, I'm Olomo Ayooluwaposi
 | [2018 SuperBowl Data Analysis](https://github.com/posi-olomo/2018-SuperBowl-Data-Analysis) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
 | [Developers: The Honest Truth](https://github.com/posi-olomo/Developers-The-honest-truth) |  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas)|
 </td></tr>
+
 </table>
 
 
